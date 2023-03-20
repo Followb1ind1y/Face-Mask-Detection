@@ -33,10 +33,10 @@ All the training data used in this project are from [Face Mask Detection](https:
 
 ## **Demonstration**
 * **Image Output:**
-<center><img src="img/output1.png" width=450px /></center>
+<center><img src="img/imageoutput.png" width=550px /></center>
 
 * **Video Output:**
-<center><img src="img/video.gif" width=450px /></center>
+<center><img src="img/video.gif" width=550px /></center>
 
 * **Live Stream Output:**
 
