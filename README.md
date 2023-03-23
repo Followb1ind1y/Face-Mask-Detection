@@ -38,9 +38,11 @@ All the training data used in this project are from [Face Mask Detection](https:
 * **Video Output:**
 <center><img src="img/video.gif" width=550px /></center>
 
+<!---
 * **Live Stream Output:**
 
 <center><img src="img/webcam.gif" width=450px /></center>
+-->
 
 ## **Reference**
 > [1] Girshick, R. (2015, September 27). Fast R-CNN. arXiv.org. Retrieved March 20, 2023, from `https://arxiv.org/abs/1504.08083` 
